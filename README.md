@@ -2,7 +2,6 @@
 Type using PC keyboard via Scrcpy
 
 
-### What is this?
 
 If you’ve used Scrcpy and tried typing with your PC keyboard, you may have noticed that English works fine—but Hebrew (and likely other non-Latin languages) does not.
 
