@@ -16,3 +16,12 @@ You can switch between languages using AltGr on your PC keyboard.
 
 > Note: The app must be set as the active IME (keyboard) on the device.
 
+### To do list
+
+- Add an on-screen layout so the app can be used at any time (no need to switch keyboards when using Scrcpy).
+- Add support for special characters.
+- Add support for more languages.
+
+### It's my idea, but all code - ChatGPT. 
+
+This is a project I created to solve a specific problem for myself. I didn’t invest much effort into it, and there is no commitment to maintenance or updates.
