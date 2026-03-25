@@ -17,7 +17,7 @@ You can switch between languages using AltGr on your PC keyboard.
 
 ### To do list
 
-- Add an on-screen layout so the app can be used at any time (no need to switch keyboards when using Scrcpy).
+- ~Add an on-screen layout so the app can be used at any time (no need to switch keyboards when using Scrcpy).~ DONE! V2 
 - Add support for special characters.
 - Add support for more languages.
 
